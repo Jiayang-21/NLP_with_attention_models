@@ -8,5 +8,5 @@
 ### 1. Converted key learnings into a Q&A format, which are stored in the README file for each week's folder.
 ### 2. Compiled the assignment code, which is stored in the notebook file for each week.
 
-## Certificate: https://coursera.org/share/2a8c5092ef241ea872a7a56689af38f1
+##### Certificate: https://coursera.org/share/2a8c5092ef241ea872a7a56689af38f1
 
