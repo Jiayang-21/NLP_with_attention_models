@@ -1,4 +1,5 @@
 # NLP_with_attention_models
+<img width="965" alt="image" src="https://user-images.githubusercontent.com/58786087/228695998-7858b071-19e2-4581-af99-374dd3373004.png">
 
 ## This is the repository for my learnings, including class notes and assignment code.
 
